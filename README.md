@@ -4,7 +4,7 @@ This is a fork of Luke Smith's LARBS project, customized for my particular needs
 
 To use:
 
-...
+```
 curl -LO https://github.com/mlisitsky/MARBS/blob/master/marbs.sh
 bash marbs.sh
-...
+```
