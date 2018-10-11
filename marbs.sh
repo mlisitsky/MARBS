@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Matthew's Auto Rice Boostrapping Script (LARBS)
+# Matthew's Auto Rice Boostrapping Script (MARBS)
 # based on LARBS by Luke Smith <luke@lukesmith.xyz>
 # License: GNU GPLv3
 
@@ -37,7 +37,7 @@ preinstallmsg() { \
 	}
 
 welcomemsg() { \
-	dialog --title "Welcome!" --msgbox "Welcome to Luke's Auto-Rice Bootstrapping Script!\\n\\nThis script will automatically install a fully-featured i3wm Arch Linux desktop, which I use as my main machine.\\n\\n-Luke" 10 60
+	dialog --title "Welcome!" --msgbox "Welcome to Matthew's Auto-Rice Bootstrapping Script!\\n\\nThis script will automatically install a fully-featured i3wm Arch Linux desktop, which I use as my main machine.\\n\\n-Luke" 10 60
 	}
 
 refreshkeys() { \
